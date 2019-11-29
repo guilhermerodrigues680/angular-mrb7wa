@@ -14,6 +14,12 @@ npm install --save-dev @angular-devkit/build-angular
 https://medium.com/collabcode/como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os-729fb4c92f2d
 https://angular.io/guide/deployment
 
+## Heroku
+https://www.devmedia.com.br/subindo-uma-aplicacao-angular-para-o-heroku/40260  
+- Script correto:  
+https://itnext.io/how-to-deploy-angular-application-to-heroku-1d56e09c5147  
+
+
 # AngularMrb7wa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
