@@ -1,3 +1,12 @@
+# Comandos usados
+>npm install -g @angular/cli
+>ng new <project_name>
+>ng build --prod --output-path docs --base-href /<project_name>/
+
+# Links uteis
+https://medium.com/collabcode/como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os-729fb4c92f2d
+https://angular.io/guide/deployment
+
 # AngularMrb7wa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
