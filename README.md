@@ -5,6 +5,11 @@ ng new <project_name>
 ng build --prod --output-path docs --base-href /<project_name>/
 ```
 
+## Comandos para Live Development ao baixar o codido do GitHub
+```sh
+npm install --save-dev @angular-devkit/build-angular
+```
+
 ## Links uteis
 https://medium.com/collabcode/como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os-729fb4c92f2d
 https://angular.io/guide/deployment
