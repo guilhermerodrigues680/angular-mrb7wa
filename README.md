@@ -1,9 +1,11 @@
-# Comandos usados
->npm install -g @angular/cli
->ng new <project_name>
->ng build --prod --output-path docs --base-href /<project_name>/
+## Comandos usados para deploy
+``` sh
+npm install -g @angular/cli
+ng new <project_name>
+ng build --prod --output-path docs --base-href /<project_name>/
+```
 
-# Links uteis
+## Links uteis
 https://medium.com/collabcode/como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os-729fb4c92f2d
 https://angular.io/guide/deployment
 
