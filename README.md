@@ -10,6 +10,9 @@ ng build --prod --output-path docs --base-href /<project_name>/
 npm install --save-dev @angular-devkit/build-angular
 ```
 
+## Problema do ng serve não auto copilar sozinho
+https://stackoverflow.com/questions/44335456/angular-cli-auto-reload-doesnt-happen
+
 ## Links uteis
 https://medium.com/collabcode/como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os-729fb4c92f2d
 https://angular.io/guide/deployment
